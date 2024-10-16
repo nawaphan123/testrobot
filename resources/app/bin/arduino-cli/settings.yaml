@@ -1,8 +1,0 @@
-directories:
-  data: "C:\\Users\\sonth\\GitHub\\microBlock-IDE-offline\\Arduino"
-  downloads: "C:\\Users\\sonth\\GitHub\\microBlock-IDE-offline\\Arduino\\staging"
-  user: "C:\\Users\\sonth\\GitHub\\microBlock-IDE-offline\\Arduino\\user"
-board_manager:
-  additional_urls: "https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json"
-updater:
-  enable_notification: false
